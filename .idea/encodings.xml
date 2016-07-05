@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/buttons.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feeds.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/AddButton.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/AddFeed.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/AddInfo.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ChangeColsForm.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ChangePasswordForm.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ChangeUsernameForm.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/DeleteButtons.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/DeleteFeeds.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/DeleteInfos.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/EditButtons.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/EditFeeds.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/EditInfos.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/Last5Messages.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/Last5Users.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/MainMessageMenu.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/MassMessages.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/SearchButtons.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/SearchFeeds.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/SearchInfos.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/SearchMessage.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/SearchUser.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ShowAllButtons.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ShowAllFeeds.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ShowAllInfos.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ShowAllUsers.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ShowButtons.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ShowFeeds.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ShowInfos.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ShowMassMessages.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ShowMessages.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/ShowUser.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/StartMessageForm.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/buttons.class.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/feeds.class.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/footer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/head.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/header.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/infos.class.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/message.class.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/page_config_button_fetching.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/page_config_feeds_fetching.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/page_config_fetching.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/page_config_infos_fetching.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/page_config_user_fetching.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/settings.class.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inc/sidebar.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infos.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/messages.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/settings.php" charset="UTF-8" />
+  </component>
+</project>
